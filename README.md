@@ -2,14 +2,14 @@
 Online Job Portal project is web application built using PHP, MySQL as backend and HTML JavaScript &amp; Bootstrap as Frontend technologies. Note that this software is developed as an academic project. 
 
 <h3> Demo </h3>
-http://sreelal.comli.com/job_portal/
+http://anaymalpani.com/job_portal/
 
 <h3>Author:</h3> 
-Sreelal C
+Abhishek Malpani
 
 <h2> License </h2>
 Online-Job-Portal - A web application built on PHP HTML & javascript</br>
-Copyright (C) 2016  Sreelal C
+Copyright (C) 2017  Abhishek Malpani
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
